@@ -1,3 +1,5 @@
+### CREATED BY: JOHN LARENCE LUSAYA ###
+
 import tkinter as tk
 from tkinter import ttk
 import speedtest
@@ -105,8 +107,3 @@ class SpeedTestApp(tk.Tk):
 if __name__ == "__main__":
     app = SpeedTestApp()
     app.mainloop()
-
-
-
-
-
